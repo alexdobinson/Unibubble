@@ -1,0 +1,15 @@
+/* line 3, ../src/site.sass */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* line 6, ../src/site.sass */
+html {
+  overflow-x: hidden; }
+
+/* line 9, ../src/site.sass */
+header.main {
+  height: 45px;
+  width: 100%;
+  font-family: "proxima-nova", helvetica, sans-serif; }

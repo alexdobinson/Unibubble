@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"analys",
+				"analysis-overview"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"chang",
+				"changePage"
+			],
+			[
+				"jque",
+				"jquerym-cf"
+			],
+			[
+				"jqur",
+				"jquerymobile"
+			],
+			[
+				"bough",
+				"borough_title"
+			],
+			[
+				"boro",
+				"borough_title"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"remov",
+				"removePage"
+			],
+			[
+				"page",
+				"pagehide"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"ma",
+				"max-value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"rating",
+				"ratings-list"
+			],
+			[
+				"list",
+				"listRatings"
+			],
+			[
+				"Anal",
+				"AnalysisSpecificView"
+			],
+			[
+				"model",
+				"modelId"
+			],
+			[
+				"mod",
+				"modelId"
+			],
+			[
+				"ui-c",
+				"ui-collapsible-heading"
+			],
+			[
+				"ui-co",
+				"ui-collapsible-set"
+			],
+			[
+				"ui-coll",
+				"ui-collapsible-content"
+			],
+			[
+				"color",
+				"colours"
+			],
+			[
+				"creat",
+				"createStyle"
+			],
+			[
+				"sort",
+				"sortBoroughs"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"scho",
+				"schoolType"
+			],
+			[
+				"sch",
+				"schoolType"
+			],
+			[
+				"min",
+				"min-value"
+			],
+			[
+				"emply",
+				"employment_status"
+			],
+			[
+				"prep",
+				"preg_replace"
+			],
+			[
+				"order",
+				"order_format"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"ui",
+				"ui-collapsible-heading"
+			],
+			[
+				"jquery",
+				"jqueryui"
+			],
+			[
+				"fucn",
+				"function"
+			],
+			[
+				"add",
+				"addTo"
+			],
+			[
+				"bor",
+				"boroughCollection"
+			],
+			[
+				"Bor",
+				"BoroughModel"
+			],
+			[
+				"atr",
+				"attributes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"borough",
+				"boroughCollection"
+			],
+			[
+				"subm",
+				"submitOptions"
+			],
+			[
+				"Boru",
+				"BoroughModel"
+			],
+			[
+				"DB",
+				"DB_HANDLE"
+			],
+			[
+				"avera",
+				"average_house_price"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"scale",
+				"scale_actual  (variable)"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"head",
+				"header_bg"
+			],
+			[
+				"body",
+				"body_bg"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"light",
+				"light_body_text"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"scro",
+				"scrollItems"
+			],
+			[
+				"regi",
+				"register"
+			],
+			[
+				"tom",
+				"topMenuHeight"
+			],
+			[
+				"Im",
+				"important"
+			],
+			[
+				"register-b",
+				"register-bar-btn"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"view",
+				"view_cv"
+			],
+			[
+				"user",
+				"userdetails"
+			],
+			[
+				"authe",
+				"authentication_authorised"
+			],
+			[
+				"imag",
+				"image_matches"
+			],
+			[
+				"ima",
+				"image_regex"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"date",
+				"date_matches"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"youtu",
+				"youtube_id_from_url"
+			],
+			[
+				"content",
+				"content-wrapper"
+			],
+			[
+				"row_",
+				"row_nested"
+			],
+			[
+				"c",
+				"comment"
+			],
+			[
+				"thub",
+				"thumbnails"
+			],
+			[
+				"x",
+				"xsize"
+			],
+			[
+				"edit",
+				"edit-profile"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"qury",
+				"query_params"
+			],
+			[
+				"query",
+				"query_params"
+			],
+			[
+				"filt",
+				"filter_params"
+			],
+			[
+				"img",
+				"imgclass"
+			],
+			[
+				"you",
+				"youtube"
+			],
+			[
+				"append",
+				"append"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"file",
+				"fileInput"
+			],
+			[
+				"video",
+				"video_resource"
+			],
+			[
+				"div",
+				"divider"
+			],
+			[
+				"vid",
+				"vid_details"
+			],
+			[
+				"vide",
+				"videoDetails"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"dele",
+				"delete-post"
+			],
+			[
+				"di",
+				"divider"
+			],
+			[
+				"date_",
+				"date_start"
+			],
+			[
+				"image",
+				"imageProcessor"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"paginat",
+				"pagination"
+			],
+			[
+				"new",
+				"newURL"
+			],
+			[
+				"vale",
+				"values"
+			],
+			[
+				"sub_",
+				"sub_cat_id"
+			],
+			[
+				"CAT",
+				"CAT_EXISTS_HANDLE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/Authentication/LoginController.php",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/migrations/2013_06_02_205311_create_buysell_listings_table.php",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"migr",
+				"Laravel Generate: Migration"
+			],
+			[
+				"model",
+				"Laravel Generate: Model"
+			],
+			[
+				"generate mi",
+				"Laravel Generate: Migration"
+			],
+			[
+				"generate seed",
+				"Laravel Generate: Seed"
+			],
+			[
+				"seed",
+				"Laravel Generate: Seed"
+			],
+			[
+				"gene mi",
+				"Laravel Generate: Migration"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"generat mod",
+				"Laravel Generate: Model"
+			],
+			[
+				"generate ",
+				"Laravel Generate: Resource"
+			],
+			[
+				"generate vie",
+				"Laravel Generate: View"
+			],
+			[
+				"generate see",
+				"Laravel Generate: Seed"
+			],
+			[
+				"generate",
+				"Laravel Generate: Model"
+			],
+			[
+				"mig",
+				"Laravel Generate: Migration"
+			],
+			[
+				"migrat",
+				"Laravel Generate: Migration"
+			],
+			[
+				"mit",
+				"Laravel Generate: Migration"
+			],
+			[
+				"laravel",
+				"Laravel Generate: Migration"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Alex/Sites/unibubble/app/views/authentication/login.blade.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_02_203125_create_listing_categories_table.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_02_202206_create_listing_condition_table.php",
+		"/Users/Alex/Sites/unibubble/app/database/seeds/UniversityDomainsTableSeeder.php",
+		"/Users/Alex/Sites/unibubble/app/database/seeds/DatabaseSeeder.php",
+		"/Users/Alex/Sites/unibubble/app/database/seeds/UniversitiesTableSeeder.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_02_205311_create_buysell_listings_table.php",
+		"/Users/Alex/Sites/unibubble/app/database/seeds/ListingConditionsTableSeeder.php",
+		"/Users/Alex/Sites/unibubble/app/database/seeds/ListingCategoriesTableSeeder.php",
+		"/Users/Alex/Desktop/tb_listing_cat_view.csv",
+		"/Users/Alex/Sites/unibubble/app/views/_partials/header.blade.php",
+		"/Users/Alex/Sites/unibubble/vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php",
+		"/Users/Alex/Sites/unibubble/app/views/master.blade.php",
+		"/Users/Alex/Sites/unibubble/vendor/laravel/framework/src/Illuminate/Html/HtmlBuilder.php",
+		"/Users/Alex/Sites/unibubble/app/filters.php",
+		"/Users/Alex/Sites/unibubble/app/controllers/Authentication/LoginController.php",
+		"/Users/Alex/Sites/unibubble/app/controllers/Authentication/LogoutController.php",
+		"/Users/Alex/Sites/unibubble/app/routes.php",
+		"/Users/Alex/Sites/unibubble/app/controllers/AuthenticationController.php",
+		"/Users/Alex/Sites/unibubble/app/models/User.php",
+		"/Users/Alex/Sites/unibubble/composer.json",
+		"/Users/Alex/Sites/unibubble/app/services/validators/Validator.php",
+		"/Users/Alex/Sites/unibubble/app/services/validators/PostHouse.php",
+		"/Users/Alex/Sites/unibubble/vendor/laravel/framework/src/Illuminate/Auth/Reminders/RemindableInterface.php",
+		"/Users/Alex/Sites/unibubble/app/models/Authentication.php",
+		"/Users/Alex/Sites/unibubble/app/database/seeds/UsersTableSeeder.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_01_223512_create_user_table.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_01_232643_update_university_keys.php",
+		"/Users/Alex/Sites/unibubble/app/models/University.php",
+		"/Users/Alex/Sites/unibubble/app/views/login.blade.php",
+		"/Users/Alex/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Alex/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Alex/Sites/unibubble/app/controllers/HomeController.php",
+		"/Users/Alex/Sites/unibubble/app/controllers/AuthenticationController.html",
+		"/Users/Alex/Sites/unibubble/vendor/laravel/framework/src/Illuminate/Auth/UserInterface.php",
+		"/Users/Alex/Sites/unibubble/app/config/auth.php",
+		"/Users/Alex/Sites/unibubble/app/config/app.php",
+		"/Users/Alex/Sites/unibubble/app/config/database.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_01_232443_create_university_domain_table.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_01_232149_create_university_table.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_01_225203_update_user_keys.php",
+		"/Users/Alex/Sites/unibubble/app/database/migrations/2013_06_01_224505_create_auth_table.php",
+		"/Users/Alex/Documents/terminal_profiles/tomorrow-night.xml",
+		"/Users/Alex/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Alex/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/usr/local/php5-5.4.15-20130520-143923/php.d/99-liip-developer.ini",
+		"/Users/Alex/Sites/unibubble/app/views/hello.php",
+		"/etc/php.ini",
+		"/private/etc/php.ini",
+		"/Users/Alex/Sites/unibubble/app/controllers/BaseController.php",
+		"/Users/Alex/Sites/actual/Group7/resources/appConfig.php",
+		"/Users/Alex/Sites/Group7/data/geoJSON/1.geojson",
+		"/Users/Alex/Sites/backup/Group71/public_html/index.html",
+		"/Users/Alex/Sites/Group7/public_html/js/vendor/touch-punch.js",
+		"/Users/Alex/Sites/Group7/resources/appConfig.php",
+		"/Users/Alex/Sites/Group7/public_html/ajax/geojson-controller.php",
+		"/Users/Alex/Sites/Group7/resources/geojsonGenerator.php",
+		"/Users/Alex/Sites/Group7/data/geoJSON/1 copy.geojson",
+		"/Users/Alex/Sites/Group7/public_html/ajax/ajax-controller.php",
+		"/Users/Alex/Sites/Group7/data/geoJSON/33.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/32.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/31.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/30.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/29.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/28.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/27.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/26.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/25.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/24.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/23.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/22.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/21.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/20.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/18.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/19.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/17.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/16.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/13.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/14.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/15.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/12.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/11.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/10.json",
+		"/Users/Alex/Sites/Group7/data/geoJSON/9.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/8.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/7.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/6.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/4.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/5.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/3.geojson",
+		"/Users/Alex/Sites/Group7/public_html/test.php",
+		"/Users/Alex/Sites/Group7/public_html/js/vendor/underscore.js",
+		"/Users/Alex/Sites/Group7/public_html/js/BoroughModel.js",
+		"/Users/Alex/Sites/Group7/public_html/js/BoroughCollection.js",
+		"/Users/Alex/Sites/Group7/public_html/js/views/data-options.js",
+		"/Users/Alex/Sites/Group7/public_html/js/normal.js",
+		"/Users/Alex/Sites/Group7/public_html/index.html",
+		"/Users/Alex/Sites/Group7/public_html/js/main.js",
+		"/Users/Alex/Sites/Group7/public_html/geoJSON/map.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/2.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/1.json",
+		"/Users/Alex/Sites/Group7/public_html/geoJSON/map2.geojson",
+		"/Users/Alex/Sites/Group7/data/geoJSON/1.geoJson",
+		"/Users/Alex/Sites/Group7/resources/analyser.php",
+		"/Users/Alex/Sites/Group7/public_html/src/application.sass",
+		"/Users/Alex/Sites/Group7/public_html/js/mobileRouter.js",
+		"/Users/Alex/Downloads/demo/demo.html",
+		"/Users/Alex/Sites/Group7/resources/registry.php",
+		"/Users/Alex/Sites/Group7/51831.xml",
+		"/Users/Alex/Sites/Group7/public_html/css/unstyled-structure.css",
+		"/Users/Alex/Sites/Group7/public_html/js/vendor/backbone.js",
+		"/Users/Alex/Sites/Group7/public_html/src/style.sass",
+		"/Users/Alex/Sites/Group7/public_html/js/vendor/requirejs.js",
+		"/Users/Alex/Sites/passwords.txt",
+		"/Users/Alex/Sites/unibbl1/login.php",
+		"/Users/Alex/Sites/unibbl1/src/login.sass",
+		"/Users/Alex/Sites/unibbl1/src/wall.sass",
+		"/Users/Alex/Sites/unibbl1/src/marketplace.sass",
+		"/Users/Alex/Sites/unibbl1/home.php",
+		"/Users/Alex/Sites/unibbl1/src/index.sass",
+		"/Users/Alex/Sites/unibbl1/src/news-hub.sass",
+		"/Users/Alex/Sites/unibbl1/news-hub.php",
+		"/Users/Alex/Sites/unibbl1/post-ad.php",
+		"/Users/Alex/Sites/unibbl1/post-event.php",
+		"/Users/Alex/Sites/unibbl1/post-event (3 May 2013 23:36:10 BST).php",
+		"/Users/Alex/Sites/unibbl1/index.php",
+		"/Users/Alex/Sites/unibbl1/src/inbox.sass",
+		"/Users/Alex/Sites/unibbl1/src/events.sass"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trunkroom",
+			"laravel",
+			"sidebar",
+			"rev",
+			"laravel",
+			"autoincrement",
+			"install",
+			"laravel",
+			"does",
+			"laravel",
+			"auth",
+			"laravel",
+			"extension_dir",
+			"extension=",
+			"mcr",
+			"mcrypt",
+			"average_house_prices",
+			"attributes",
+			".ui-collapsible-heading .ui-btn-inner, .ui-collapsible-heading .ui-btn-icon-left .ui-btn-inner {\n.ui-collapsible-heading .ui-btn-inner, .ui-collapsible-heading .ui-btn-icon-left .ui-btn-inner {\n",
+			"echo",
+			"print_r",
+			"select-native-1",
+			"range-10b",
+			"housing",
+			"poly",
+			"attr",
+			"borough",
+			"min",
+			"ui-submit",
+			".ui-field-contain label.ui-select",
+			".ui-collapsible-content",
+			"retired",
+			"rent",
+			"buy",
+			"house-type",
+			"radio",
+			"h1",
+			"font",
+			"trunkroom",
+			"post",
+			"uplo",
+			"h1",
+			"price",
+			"sidebarUpcoming",
+			"marketplac",
+			"bbccd6",
+			"d5dce1",
+			"h3",
+			"h2",
+			"\n    ",
+			"event-",
+			"event-summary",
+			"min-width",
+			"calendar",
+			"600px",
+			"max-widt",
+			"calendar",
+			"aside",
+			"arti",
+			"marketplace",
+			"register",
+			".container",
+			"input",
+			"footer",
+			"call-to-action",
+			"input",
+			"text-s",
+			"profile-",
+			"header",
+			"trending",
+			"body_text",
+			"pag",
+			"call-to",
+			"content-wrap",
+			"sub-nav",
+			"f8feff",
+			"active",
+			"changes",
+			"blockqu",
+			"border",
+			"datetime",
+			"echo",
+			"post-wall",
+			"logo",
+			"post-wall",
+			"right",
+			"calendar",
+			"calendar-",
+			"wall",
+			"echo",
+			"header",
+			"location",
+			"header",
+			":",
+			"exec",
+			"width",
+			"filter",
+			"type",
+			"extension",
+			".so",
+			"error_reporting",
+			"numrows",
+			"numRows",
+			"pagination",
+			"urlParam",
+			"getparam",
+			"sub_sidebar_activ",
+			"error",
+			"2048"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/Authentication/LoginController.php",
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/database/migrations/2013_06_02_205311_create_buysell_listings_table.php",
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								950,
+								950
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"formbuid",
+				"vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php"
+			],
+			[
+				"formbuilder",
+				"vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php"
+			],
+			[
+				"reminderinterface",
+				"vendor/laravel/framework/src/Illuminate/Auth/Reminders/RemindableInterface.php"
+			],
+			[
+				"userinte",
+				"vendor/laravel/framework/src/Illuminate/Auth/UserInterface.php"
+			],
+			[
+				"illuminate/usr",
+				"vendor/laravel/framework/src/Illuminate/Auth/UserInterface.php"
+			],
+			[
+				"logi",
+				"login.php"
+			],
+			[
+				"main",
+				"js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}
